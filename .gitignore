@@ -1,2 +1,4 @@
 /data/
 /data_cifar/
+/__pycache__/
+requirements.txt
